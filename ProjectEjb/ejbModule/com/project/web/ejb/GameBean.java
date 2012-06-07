@@ -3,18 +3,17 @@ package com.project.web.ejb;
 import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
 
-
 /**
- * Session Bean implementation class BeanEJB
+ * Session Bean implementation class GameBean
  */
 @Stateless
 @LocalBean
-public class BeanEJB {
+public class GameBean implements GameBeanLocal {
 
     /**
      * Default constructor. 
      */
-    public BeanEJB() {
+    public GameBean() {
         // TODO Auto-generated constructor stub
     }
 

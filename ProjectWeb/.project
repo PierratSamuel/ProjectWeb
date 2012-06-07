@@ -3,9 +3,9 @@
 	<name>ProjectWeb</name>
 	<comment></comment>
 	<projects>
-		<project>ProjectEE</project>
-		<project>ProjectEJB</project>
+		<project>ProjectEjb</project>
 		<project>ProjectJPA</project>
+		<project>ProjectView</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
