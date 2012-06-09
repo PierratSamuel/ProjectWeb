@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/webservices.security.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.servlet.jsp.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/jdk7/jre/lib/ext/sunmscapi.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/ProjectWeb/ProjectView/WebContent/WEB-INF/lib/jstl.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/ProjectWeb/ProjectView/WebContent/WEB-INF/lib/standard.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/c-1_0-rt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/c-1_0.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/c.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/fmt-1_0-rt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/fmt-1_0.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/fmt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/fn.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/permittedtaglibs.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/scriptfree.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/sql-1_0-rt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/sql-1_0.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/sql.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/x-1_0-rt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/x-1_0.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-standard.jar/meta-inf/x.tld" project="ProjectView"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/org.eclipse.persistence.moxy.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/ProjectWeb/ProjectView/WebContent/WEB-INF/lib/commons-digester.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/ProjectWeb/ProjectView/WebContent/WEB-INF/lib/common-annotations.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/jdk7/jre/lib/ext/sunjce_provider.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.servlet.jsp.jstl.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/c-1_0-rt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/c-1_0.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/c.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/fmt-1_0-rt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/fmt-1_0.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/fmt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/fn.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/permittedtaglibs.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/scriptfree.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/sql-1_0-rt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/sql-1_0.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/sql.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/x-1_0-rt.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/x-1_0.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/meta-inf/x.tld" project="ProjectView"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Kilik/Desktop/projectMe/ProjectWeb/ProjectView/WebContent/WEB-INF/lib/commons-beanutils.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/weld-osgi-bundle.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.security.auth.message.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.mail.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/org.eclipse.persistence.jpa.modelgen.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jersey-client.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/ProjectWeb/ProjectView/WebContent/WEB-INF/lib/commons-logging.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.transaction.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/org.eclipse.persistence.core.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/jdk7/jre/lib/ext/localedata.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/webservices-osgi.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.servlet.jsp.jstl-api.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.servlet-api.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/endorsed/javax.annotation.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/jdk7/jre/lib/ext/dnsns.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jersey-gf-statsproviders.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jersey-gf-servlet.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jaxb-osgi.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.resource.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/org.eclipse.persistence.oracle.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/org.eclipse.persistence.asm.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/endorsed/webservices-api-osgi.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/glassfish-api.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jersey-gf-server.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jersey-gf-server.jar/meta-inf/taglib.tld" project="ProjectView"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.servlet.jsp-api.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/jdk7/jre/lib/ext/zipfs.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.el.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/grizzly-comet.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/endorsed/jaxb-api-osgi.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/org.eclipse.persistence.antlr.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/ProjectWeb/ProjectView/WebContent/WEB-INF/lib/commons-collections.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.ejb.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jersey-json.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/webservices-extra-jdk-packages.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.jms.jar"/>
+  <path value="/ProjectView/WebContent/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="ProjectView"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.enterprise.deploy.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.el-api.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/mq/lib/jaxm-api.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.security.jacc.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.persistence.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/jdk7/jre/lib/resources.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/org.eclipse.persistence.jpa.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jersey-multipart.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.management.j2ee.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/ha-api.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/bean-validator.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/javax.faces.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/meta-inf/html_basic.tld" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/meta-inf/jsf_core.tld" project="ProjectView"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/meta-inf/mojarra_ext.taglib.xml" project="ProjectView"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/meta-inf/mojarra_ext.tld" project="ProjectView"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/com/sun/faces/metadata/taglib/composite.taglib.xml" project="ProjectView"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/com/sun/faces/metadata/taglib/facelets_jsf_core.taglib.xml" project="ProjectView"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/com/sun/faces/metadata/taglib/html_basic.taglib.xml" project="ProjectView"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/com/sun/faces/metadata/taglib/jstl-core.taglib.xml" project="ProjectView"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/com/sun/faces/metadata/taglib/jstl-fn.taglib.xml" project="ProjectView"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/com/sun/faces/metadata/taglib/mojarra_ext.taglib.xml" project="ProjectView"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/com/sun/faces/metadata/taglib/ui.taglib.xml" project="ProjectView"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jersey-moxy.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jersey-grizzly.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/jersey-core.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/grizzly-websockets.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/jdk7/jre/lib/ext/sunec.jar"/>
+  <path value="C:/Users/Kilik/Desktop/projectMe/glassfish3/glassfish/modules/webservices-connector.jar"/>
+ </paths>
+ <validation>
+  <el/>
+ </validation>
+ <aliases/>
+</kb-project>
