@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<servers>
-  <server auto-publish-setting="1" auto-publish-time="0" hostname="localhost" id="GlassFish 3.1.2 at localhost" name="GlassFish 3.1.2 at localhost" runtime-id="GlassFish 3.1.2" server-type="org.glassfish.jst.server.glassfish312" server-type-id="org.glassfish.jst.server.glassfish312" start-timeout="800" stop-timeout="800" timestamp="7">
-    <list key="Generic_Server_Modules_List" value0="org.eclipse.jst.jee.server:ProjectWeb" value1="org.eclipse.jst.jee.server:ProjectView"/>
-    <map key="generic_server_instance_properties" sunappserver.adminname="admin" sunappserver.adminpassword="" sunappserver.adminserverportnumber="4848" sunappserver.domainpath="C:\Users\Kilik\Desktop\projectMe\glassfish3\glassfish\domains\domain1" sunappserver.jarDeploy="true" sunappserver.keepSessions="true" sunappserver.serveraddress="localhost" sunappserver.serverportnumber="8080"/>
-    <list key="modules" value0="ProjectWeb::org.eclipse.jst.jee.server:ProjectWeb::jst.ear::6.0" value1="ProjectView::org.eclipse.jst.jee.server:ProjectView::jst.web::3.0"/>
-  </server>
-</servers>
